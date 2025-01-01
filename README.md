@@ -82,6 +82,15 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 . Repository: <a href="https://github.com/Prathush-Kumar/Hospital-Appointment-System">Link of repository</a>
 
 
+<hr>
+
+<h2 id="contact">📬 Contact</h2>
+
+Let's connect! You can find me on these platforms:
+
+
+
+
 
 
 
