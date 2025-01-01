@@ -61,7 +61,7 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 
 . Technologies: Python and Machine Learning
 
-. Repository:<a href="https://github.com/Prathush-Kumar/Fake_news_detection">Link of repository</a>
+. Repository: <a href="https://github.com/Prathush-Kumar/Fake_news_detection">Link of repository</a>
 
 
 # 🚶‍♂️ Flight Booking System
@@ -70,7 +70,16 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 
 . Technologies: Python
 
-.  Repository:<a href="https://github.com/Prathush-Kumar/Flight-Booking-System">Link of repository</a>
+.  Repository: <a href="https://github.com/Prathush-Kumar/Flight-Booking-System">Link of repository</a>
+
+
+# 🚶‍♂️ Hospital Appointment System
+
+. Description: Developed a Hospital Appointment System
+
+. Technologies: Java
+
+. Repository: <a href="https://github.com/Prathush-Kumar/Hospital-Appointment-System">Link of repository</a>
 
 
 
