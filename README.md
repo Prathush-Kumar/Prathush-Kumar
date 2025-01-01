@@ -12,5 +12,8 @@ Welcome to my personal profile repository! Here, you'll find everything about me
   <li> 📬 <a href=#"contact">Contact</a></li>
 </ol>
  <h2 id="about-me"About Me</h2>
+ <h2 id="skills"Skills</h2>
+ <h2 id="projects"Projects</h2>
+ <h2 id="contact"Contact</h2>
 
 
