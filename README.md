@@ -59,6 +59,10 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 
 . Description: Developed a HAR system and a Fake News Detection System model using Python for your AIML project!.
 
+. Technologies: Python and Machine Learning
+
+. Repository:<a href="https://github.com/Prathush-Kumar/Fake_news_detection">Link of repository</a>
+
 
 
 
