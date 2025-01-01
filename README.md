@@ -55,6 +55,10 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 
 <h2 id="projects">🚀 Projects</h2>
 
+# 🚶‍♂️ Cancer prediction
+
+. Description: Developed a HAR system and a Fake News Detection System model using Python for your AIML project!.
+
 
 
 
