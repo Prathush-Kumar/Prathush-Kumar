@@ -88,13 +88,13 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 
 Let's connect! You can find me on these platforms:
 
-LinkedIn: <a href="https://www.linkedin.com/in/prathush-kumar-edakula-0a451828a/"></a>
+LinkedIn: <a href="https://www.linkedin.com/in/prathush-kumar-edakula-0a451828a/">One Tap To Connect</a>
 
-GitHub: <a href="https://github.com/Prathush-Kumar"></a>
+GitHub: <a href="https://github.com/Prathush-Kumar">One Tap To Connect</a>
 
-LeetCode: <a href="https://leetcode.com/u/Prathushkumar/"></a>
+LeetCode: <a href="https://leetcode.com/u/Prathushkumar/">One Tap To Connect</a>
 
-Unstop: <a href="https://unstop.com/u/pranakum8609"></a>
+Unstop: <a href="https://unstop.com/u/pranakum8609">One Tap To Connect</a>
 
 
 <hr>
