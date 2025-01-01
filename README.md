@@ -55,13 +55,24 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 
 <h2 id="projects">🚀 Projects</h2>
 
-# 🚶‍♂️ Cancer prediction
+# 🚶‍♂️ Fake News Detection
 
 . Description: Developed a HAR system and a Fake News Detection System model using Python for your AIML project!.
 
 . Technologies: Python and Machine Learning
 
 . Repository:<a href="https://github.com/Prathush-Kumar/Fake_news_detection">Link of repository</a>
+
+
+# 🚶‍♂️ Flight Booking System
+
+.  Description: Developed a Flight Booking System
+
+. Technologies: Python
+
+.  Repository:<a href="https://github.com/Prathush-Kumar/Flight-Booking-System">Link of repository</a>
+
+
 
 
 
