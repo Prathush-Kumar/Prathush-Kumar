@@ -31,10 +31,27 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 . JAVA
 
 . PYTHON
-   
- <h2 id="skills"Skills</h2>
- <h2 id="projects"Projects</h2>
- <h2 id="contact"Contact</h2>
+
+. PL/SQL
+
+. DSA
+
+# 🛠️ Tools & Platforms
+
+. VISUAL STUDIO
+
+. GOOGLE COLAB
+
+. JUPTIOR NOTEBOOK
+
+# 🌱 Soft Skills
+
+. Team Work
+. Communication
+. Time Management
+. Problem Solving
+
+
 
 
 
