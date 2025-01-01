@@ -6,7 +6,7 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 # 📖 Table of Contents
 
 <ol>
-🙋‍♂️  <li><a href="#about-me">About Me</a></li>
+  <li> 🙋‍♂️ <a href="#about-me">About Me</a></li>
 🛠️  <li>Skills</li>
 🚀  <li>Projects</li>
 📬  <li>Contact</li>
