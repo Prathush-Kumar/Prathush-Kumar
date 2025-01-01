@@ -16,4 +16,8 @@ Welcome to my personal profile repository! Here, you'll find everything about me
  <h2 id="projects"Projects</h2>
  <h2 id="contact"Contact</h2>
 
+ <hr>
+
+ 🙋‍♂️ About Me
+
 
