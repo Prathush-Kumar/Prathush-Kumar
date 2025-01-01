@@ -5,4 +5,9 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 
 # 📖 Table of Contents
 
+🙋‍♂️ About Me
+🛠️ Skills
+🚀 Projects
+📬 Contact
+
 
