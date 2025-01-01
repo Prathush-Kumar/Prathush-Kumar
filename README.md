@@ -43,12 +43,14 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 . GOOGLE COLAB
 
 . JUPTIOR NOTEBOOK
-
 # 🌱 Soft Skills
 
 . Team Work
+
 . Communication
+
 . Time Management
+
 . Problem Solving
 
 
