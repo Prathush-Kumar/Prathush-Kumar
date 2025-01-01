@@ -88,6 +88,9 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 
 Let's connect! You can find me on these platforms:
 
+LinkedIn: <a href="https://www.linkedin.com/in/prathush-kumar-edakula-0a451828a/">One Tap To Coonect</a>
+
+GitHub: <a href=""
 
 
 
