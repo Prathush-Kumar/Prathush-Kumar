@@ -19,6 +19,8 @@ Welcome to my personal profile repository! Here, you'll find everything about me
  
 <small>Hello! I'm *Edakula Prathush Kumar, a passionate Undergraduate with a love for *Machine Learning and Web Development. I thrive on challenges and enjoy working on projects that involve these cutting-edge technologies. My journey is driven by curiosity and the pursuit of knowledge.</small>
 <h2 id="about-me"About Me</h2>
+
+<hr>
    
  <h2 id="skills"Skills</h2>
  <h2 id="projects"Projects</h2>
