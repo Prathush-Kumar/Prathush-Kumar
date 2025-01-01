@@ -88,9 +88,20 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 
 Let's connect! You can find me on these platforms:
 
-LinkedIn: <a href="https://www.linkedin.com/in/prathush-kumar-edakula-0a451828a/">One Tap To Coonect</a>
+LinkedIn: <a href="https://www.linkedin.com/in/prathush-kumar-edakula-0a451828a/">
 
-GitHub: <a href=""
+GitHub: <a href="https://github.com/Prathush-Kumar">
+
+LeetCode: <a href="https://leetcode.com/u/Prathushkumar/">
+
+Unstop: <a href="https://unstop.com/u/pranakum8609">
+
+
+<hr>
+
+✨Thank you for visiting my profile! I'm always excited to explore new opportunities and collaborations. Let's build something great together!✨
+
+
 
 
 
