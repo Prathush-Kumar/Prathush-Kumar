@@ -1,1 +1,1 @@
-# Edakula-Prathush-Kumar
+# 🌟 EDAKULA PRATHUSH KUMAR
