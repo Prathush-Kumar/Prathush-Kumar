@@ -24,11 +24,13 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 
 # 🛠️ Skills
 
-💻 Programming Languages
+# 💻 Programming Languages
 
-.C
-.JAVA
-.PYTHON
+. C
+
+. JAVA
+
+. PYTHON
    
  <h2 id="skills"Skills</h2>
  <h2 id="projects"Projects</h2>
