@@ -21,6 +21,13 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 <h2 id="about-me"About Me</h2>
 
 <hr>
+
+# 🛠️ Skills
+
+💻 Programming Languages
+.C
+.JAVA
+.PYTHON
    
  <h2 id="skills"Skills</h2>
  <h2 id="projects"Projects</h2>
