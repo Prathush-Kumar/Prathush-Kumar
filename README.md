@@ -9,7 +9,7 @@ Welcome to my personal profile repository! Here, you'll find everything about me
   <li> 🙋‍♂️ <a href="#about-me">About Me</a></li>
   <li> 🛠️ <a href="#skills">Skills</a></li>
   <li> 🚀 <a href="#Projects">Projects</a></li>
-  <li> 📬 <a href=#"contact">Contact</a></li>
+  <li> 📬 <a href="#contact">Contact</a></li>
 </ol>
 
 <hr>
