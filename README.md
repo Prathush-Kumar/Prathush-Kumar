@@ -35,7 +35,6 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 . PL/SQL
 
 . DSA
-
 # 🛠️ Tools & Platforms
 
 . VISUAL STUDIO
