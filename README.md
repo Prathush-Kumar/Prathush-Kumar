@@ -22,6 +22,7 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 <hr>
 
 <h2 id="skills">🛠️ Skills</h2>
+
 # 💻 Programming Languages
 
 . C
@@ -49,6 +50,12 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 . Time Management
 
 . Problem Solving
+
+<hr>
+
+<h2 id="projects">🚀 Projects</h2>
+
+
 
 
 
