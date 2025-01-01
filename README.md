@@ -21,7 +21,7 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 
 <hr>
 
-# 🛠️ Skills
+<h2 id="skills">🛠️ Skills</h2>
 
 # 💻 Programming Languages
 
