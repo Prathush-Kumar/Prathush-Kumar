@@ -4,7 +4,7 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 <hr>
 
 # 📖 Table of Contents  
-
+ 
 <ol>
   <li> 🙋‍♂️ <a href="#about-me">About Me</a></li> 
   <li> 🛠️ <a href="#skills">Skills</a></li>
@@ -21,13 +21,13 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 
 <hr>
 
-<h2 id="skills">🛠️ Skills</h2>
+<h2 id="skills">🛠️ Skills</h2> 
 
 # 💻 Programming Languages
 
 . C
 
-. JAVA
+. JAVA   
 
 . PYTHON
 
@@ -40,11 +40,11 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 
 . GOOGLE COLAB
 
-. JUPTIOR NOTEBOOK
+. JUPTIOR NOTEBOOK 
 # 🌱 Soft Skills
 
 . Team Work
-
+                                                                                                
 . Communication
 
 . Time Management
