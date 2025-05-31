@@ -3,7 +3,7 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 
 <hr>                                                 
  
-# 📖 Table of Contents            
+# 📖 Table of Contents                                                             
   
 <ol>
   <li> 🙋‍♂️ <a href="#about-me">About Me</a></li>  
