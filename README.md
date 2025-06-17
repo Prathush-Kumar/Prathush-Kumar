@@ -73,7 +73,7 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 .  Repository: <a href="https://github.com/Prathush-Kumar/Flight-Booking-System">Link of repository</a>
 
 
-# 🚶‍♂️ Hospital Appointment System
+# 🚶‍♂️ Hospital Appointment Booking System
 
 . Description: Developed a Hospital Appointment System
 
