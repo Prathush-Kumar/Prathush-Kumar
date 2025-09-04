@@ -64,13 +64,13 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 . Repository: <a href="https://github.com/Prathush-Kumar/Fake_news_detection">Link of repository</a>
 
 
-# 🚶‍♂️ Flight Booking System
+# 🚶‍♂️ Smart Web Based Menu System for Restaurants with Expandable Sections and Interactive Food Ordering
 
-.  Description: Developed a Flight Booking System
+.  Description: The Smart Web-Based Menu System for Restaurants with Expandable Sections and Interactive Food Ordering successfully demonstrates how modern web technologies can transform traditional restaurant menus into a digital, interactive, and customer-friendly solution.
 
-. Technologies: Python
+. Technologies: Html, Css, Java-Script
 
-.  Repository: <a href="https://github.com/Prathush-Kumar/Flight-Booking-System">Link of repository</a>
+.  Repository: <a href="https://github.com/Prathush-Kumar/Smart-Web-Based-Menu-System-for-Restaurants-with-Expandable-Sections-and-Interactive-Food-Ordering">Link of repository</a>
 
 
 # 🚶‍♂️ Integrated Hospital Management and Doctor Consultation Request
