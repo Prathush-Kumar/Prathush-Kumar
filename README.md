@@ -73,13 +73,13 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 .  Repository: <a href="https://github.com/Prathush-Kumar/Flight-Booking-System">Link of repository</a>
 
 
-# 🚶‍♂️ Hospital Appointment Booking System
+# 🚶‍♂️ Integrated Hospital Management and Doctor Consultation Request
 
-. Description: Developed a Hospital Appointment System
+. Description: A desktop-based application designed to simplify hospital operations by managing patient appointments, doctor schedules, and staff information efficiently using Java Swing and JavaSwings
 
-. Technologies: Java
+. Technologies: Java, java-Swings, OOPS
 
-. Repository: <a href="https://github.com/Prathush-Kumar/Hospital-Appointment-System">Link of repository</a>
+. Repository: <a href="https://github.com/Prathush-Kumar/Integrated-Hospital-Management-and-Doctor-Consultation-Request">Link of repository</a>
 
 
 <hr>
