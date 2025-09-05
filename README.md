@@ -16,7 +16,8 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 
 <h2 id="about-me">🙋‍♂️ About Me</h2>
  
-<small>Hello! I'm *Edakula Prathush Kumar, a passionate Undergraduate with a love for *Machine Learning and Web Development. I thrive on challenges and enjoy working on projects that involve these cutting-edge technologies. My journey is driven by curiosity and the pursuit of knowledge.</small>
+<small>Hello! I'm *Edakula Prathush Kumar, a passionate Undergraduate with a love for *Machine Learning and Web Development. I thrive on challenges and enjoy working on projects that involve these cutting-edge technologies. My journey is driven by curiosity and the pursuit of knowledge.I am a passionate software developer with hands-on experience in programming languages including Java, Python, and C, and strong skills in web technologies such as HTML, CSS, and JavaScript. I have practical knowledge of databases (SQL) and cloud computing with AWS, enabling me to develop and deploy scalable, data-driven applications.
+I enjoy building full-stack projects that integrate backend logic with interactive user interfaces, focusing on usability, performance, and security. My work includes developing applications like a Hospital Management System, which enhanced my skills in UI design, database management, and role-based authentication.I am enthusiastic about solving real-world problems through technology, constantly learning new tools and frameworks, and contributing to innovative projects. My goal is to leverage my technical expertise to create efficient, user-friendly, and impactful software solutions that make a difference.</small>
 
 
 <hr>
