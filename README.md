@@ -57,7 +57,8 @@ Welcome to my personal profile repository! Here, you'll find everything about me
 
 # 🚶‍♂️ Fake News Detection
 
-. Description: Developed a HAR system and a Fake News Detection System model using Python for your AIML project!.
+. Description: Developed an intelligent system to identify and classify fake news articles using Natural Language Processing (NLP) and Machine Learning techniques. The project focuses on analyzing textual content from news sources, extracting key features, and predicting the authenticity of the news with high accuracy.
+Tools & Technologies: Python, NLP libraries (NLTK, spaCy), Scikit-learn, Pandas, NumPy, Flask (for web deployment), and Bootstrap for UI.
 
 . Technologies: Python and Machine Learning
 
